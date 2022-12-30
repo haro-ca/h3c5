@@ -1,5 +1,5 @@
 {
-  "name": "@example/blog",
+  "name": "h3c5",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -11,9 +11,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^1.8.0",
     "@astrojs/mdx": "^0.14.0",
     "@astrojs/rss": "^2.0.0",
-    "@astrojs/sitemap": "^1.0.0"
+    "@astrojs/sitemap": "^1.0.0",
+    "astro": "^1.8.0"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
