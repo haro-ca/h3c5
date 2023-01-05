@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
 title: "Y empezar el 2023"
-description: "Notas de sobre la dificultad de construir productos"
+description: "Notas de sobre la dificultad y valor de construir productos de software"
 pubDate: "Ene 02 2023"
 heroImage: "/empezar_2023.svg"
 ---
