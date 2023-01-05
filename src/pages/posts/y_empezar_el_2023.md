@@ -2,8 +2,8 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Y empezar el 2023"
 description: "Notas de sobre la dificultad y valor de construir productos de software"
-pubDate: "Ene 02 2023"
-heroImage: "/empezar_2023.svg"
+pubDate: "04-Ene-2023"
+heroImage: "/empezar-el-2023.png"
 ---
 
 # Una verdad incómoda
@@ -147,7 +147,7 @@ La moraleja es: **la utilidad inmediata no es tan fácil de ver**.
 de la oficina; **como ingeniero de datos**, debió basta con saber que alguien estaba atento a cada tabla, y, también, con el testigo de Airflow dándome su Vo.Bo. de 
 jobs finalizados exitosamente; **como ingeniero de software**, debió ser suficiente con saber que mi equipo y yo estábamos contentos con una aplicación web bien hecha.   
 Siendo honesto, **no creo que la ppt, mi código de Airflow, o un sitio web de banca algún día se vuelvan teoría de grafos, o El Viñedo Rojo, pero solo me queda 
-saber que alguna vez alguien, al menos una parte de mí en el pasado, les dio importancia. Y, claro, también debo tener fe puedo equivocarme y tal 
+saber que alguna vez alguien, al menos una parte de mí en el pasado, les dio importancia. Y, claro, también debo tener fe en que puedo equivocarme y tal 
 vez trasciendan más de lo que yo puedo o podré alcanzar a ver.**
 
 # Epílogo
@@ -196,18 +196,4 @@ iframe {
 }
 
 </style>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
